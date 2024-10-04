@@ -1,0 +1,31 @@
+{
+  "name": "polytree",
+  "version": "1.0.0",
+  "description": "A Constructive Solid Geometry (CSG) library.",
+  "main": "polytree.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgphilpott/polytreeCSG"
+  },
+  "keywords": [
+    "csg"
+  ],
+  "author": "Jacob Philpott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgphilpott/polytreeCSG/issues"
+  },
+  "homepage": "https://github.com/jgphilpott/polytreeCSG#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "three": "^0.169.0"
+  }
+}
