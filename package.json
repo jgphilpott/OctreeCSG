@@ -2,6 +2,7 @@
   "name": "polytree",
   "version": "1.0.0",
   "description": "A Constructive Solid Geometry (CSG) library.",
+  "funding": "https://github.com/sponsors/jgphilpott",
   "main": "polytree.js",
   "directories": {
     "example": "examples"
